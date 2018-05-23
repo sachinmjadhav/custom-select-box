@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import SelectBox from "./features/select-box";
 
 class App extends Component {
